@@ -1,13 +1,13 @@
   # Bonjour! Hello! 안녕하세요! :wave::smiley:
-🇫🇷 J'aime la programmation. J'étais principalement responsable du développement de backend.
+🇫🇷 J'aime la programmation. J'étais principalement responsable du développement de backend(Depuis 2019).
 Actuellement à la recherche d'un emploi à Nantes, France.
 Je suis vraiment fan de Python ces jours-ci.
 
-🇬🇧 I like programming. I was mainly in charge of developing backend.
+🇬🇧 I like programming. I was mainly in charge of developing backend(Since 2019).
 Currently looking for a job in Nantes, France.
 I'm really into Python these days.
 
-🇰🇷 프로그래밍을 좋아합니다. 주로 backend 개발을 담당했습니다.
+🇰🇷 프로그래밍을 좋아합니다. 주로 backend 개발을 담당했습니다(2019년부터).
 현재 프랑스 낭트에서 직업을 구하고 있습니다.
 요즘은 파이썬의 매력에 푹 빠져있습니다.
 <br>
