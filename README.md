@@ -51,38 +51,39 @@ I'm really into Python these days.
 <div>
 
   ## 📡 &nbsp;My activities
+
   <a href="https://github.com/ykwon0323">
     <img width=450 height=170 align="center" alt="ykwon0323" src="https://github-readme-stats.vercel.app/api?username=ykwon0323&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/ykwon0323">
     <img align="center" alt="ykwon0323" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykwon0323&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
+  
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
 
-
-<img src="https://media3.giphy.com/media/J63ZVOBNg4q4Hftti3/giphy.gif?cid=ecf05e47alygktatbchkk8pcezsy9j1b59aatl660oxgdc6o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="410"> 
-    <em>
-        <br>
-        <br>
-        <b>🇫🇷 Vous aimez la programmation ? On peut être de bons amis quand on veut.</b>
-        <br>
-        <b>🇬🇧 Do you like programming? We can be good friends anytime.</b>
-        <br>
-        <b>🇰🇷 프로그래밍을 좋아하세요? 우리는 언제든지 좋은 친구가 될 수 있습니다.</b>
-        <br>
-        <br>
-    </em>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV2Z216aHR5cmw5cmd3ajdqaHI1eXI4bGpmMThyeWN6MGdhdnJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J63ZVOBNg4q4Hftti3/giphy.gif" width="410"> 
+<em>
+    <br>
+    <br>
+    <b>🇫🇷 Vous aimez la programmation ? On peut être de bons amis quand on veut.</b>
+    <br>
+    <b>🇬🇧 Do you like programming? We can be good friends anytime.</b>
+    <br>
+    <b>🇰🇷 프로그래밍을 좋아하세요? 우리는 언제든지 좋은 친구가 될 수 있습니다.</b>
+    <br>
+    <br>
+</em>
 <img src="https://media1.giphy.com/media/D0TUZQCJCCOP1yiZ8K/giphy.gif?cid=ecf05e47u2wovslgezw6moi9htytm0c08zht3bg6k8xvdpma&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400"> 
 <em>
-        <br>
-        <br>
-        <b>🇫🇷 Faisons-le ensemble!</b>
-        <br>
-        <b>🇬🇧 Let's do it together!</b>
-        <br>
-        <b>🇰🇷 같이 해요!</b>
-        <br>
-        <br>
-    </em>
+    <br>
+    <br>
+    <b>🇫🇷 Faisons-le ensemble!</b>
+    <br>
+    <b>🇬🇧 Let's do it together!</b>
+    <br>
+    <b>🇰🇷 같이 해요!</b>
+    <br>
+    <br>
+</em>
