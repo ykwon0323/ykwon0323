@@ -63,10 +63,9 @@ I'm really into Python these days.
 
 ![Snake animation](https://raw.githubusercontent.com/roychan0317/roychan0317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV2Z216aHR5cmw5cmd3ajdqaHI1eXI4bGpmMThyeWN6MGdhdnJjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J63ZVOBNg4q4Hftti3/giphy.gif" width="410"> 
+<img src="https://i.giphy.com/media/J63ZVOBNg4q4Hftti3/giphy.webp" width="410"> 
+
 <em>
-    <br>
-    <br>
     <b>🇫🇷 Vous aimez la programmation ? On peut être de bons amis quand on veut.</b>
     <br>
     <b>🇬🇧 Do you like programming? We can be good friends anytime.</b>
@@ -77,8 +76,6 @@ I'm really into Python these days.
 </em>
 <img src="https://media1.giphy.com/media/D0TUZQCJCCOP1yiZ8K/giphy.gif?cid=ecf05e47u2wovslgezw6moi9htytm0c08zht3bg6k8xvdpma&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400"> 
 <em>
-    <br>
-    <br>
     <b>🇫🇷 Faisons-le ensemble!</b>
     <br>
     <b>🇬🇧 Let's do it together!</b>
